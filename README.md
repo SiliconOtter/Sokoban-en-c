@@ -9,7 +9,7 @@ Si vous êtes dans l'UE concernée à l'UCA passer votre chemin c'est votre prem
 
 ![Text alternatif](galerie/sokoban_1.png)
 
-##Fonctionnalités
+## Fonctionnalités
 
 * Makefile disponible pour compilation et suppression des binaires.
 
@@ -22,7 +22,7 @@ Si vous êtes dans l'UE concernée à l'UCA passer votre chemin c'est votre prem
 * Récupérations des niveaux depuis des fichiers text. 
 
 
-##Requirement
+## Requirement
 
 
 * SDL 1.2
